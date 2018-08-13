@@ -1,2 +1,3 @@
 var Refill(number amount)
-  SetLiquid
+  SetLiquidAmount(amount)
+end
