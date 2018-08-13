@@ -1,0 +1,8 @@
+var tab = "nameOfTab"
+var source = Connect(tab)
+
+Drink(1)
+Drunkenness(-1000)
+Sleepiness(-1000)
+Smelliness(-1000)
+Corruption(-1000)
